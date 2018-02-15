@@ -1,10 +1,12 @@
-package com.infoshareacademy.api;
+package com.infoshareacademy.api.google;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import com.infoshareacademy.api.google.GoogleTranslate;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;

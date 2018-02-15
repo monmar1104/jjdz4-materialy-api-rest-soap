@@ -1,6 +1,5 @@
-package com.infoshareacademy.api;
+package com.infoshareacademy.api.google;
 
-import java.util.HashMap;
 import java.util.Map;
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

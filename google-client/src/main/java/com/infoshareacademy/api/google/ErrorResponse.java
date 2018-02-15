@@ -1,4 +1,4 @@
-package com.infoshareacademy.api;
+package com.infoshareacademy.api.google;
 
 public class ErrorResponse {
 
